@@ -42,7 +42,7 @@ export default {
     "@nuxtjs/auth",
   ],
   axios: {
-    baseURL: "127.0.0.1:3333/api",
+    baseURL: "http://127.0.0.1:3333/api",
   },
   auth: {
     strategies: {
